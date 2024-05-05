@@ -60,4 +60,4 @@ The solution is built using Springboot and uses technologies such as: PostgreSQL
 
 The authors of this repository are André Pedrosa, Filipe Pires and João Alegria, and the project was developed for the Software Engineering Course of the Master's degree in Informatics Engineering of the University of Aveiro.
 
-For further information, please check out our [demo](https://github.com/FilipePires98/StickmanCharades/blob/master/Demo.mp4), read our [user manual](https://github.com/FilipePires98/StickmanCharades/blob/master/Documentation/Stickman%20Charades%20-%20User%20Manual.pdf) or contact us directly.
+For further information, please check out our [demo](https://github.com/FilipePires98/StickmanCharades/blob/master/Demo.mp4), read our [user manual](https://github.com/FilipePires98/StickmanCharades/blob/master/Documentation/Stickman%20Charades%20-%20User%20Manual.pdf) or contact us directly at fsnap@protonmail.com.
